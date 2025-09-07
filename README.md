@@ -1,8 +1,8 @@
 # 🤖 Jignesh Bot
 
-**Jignesh** is a savage, dark-humor Discord bot with a Hinglish twist.  
-He roasts, jokes, and replies in short, punchy lines — mixing English with Hindi slang (Hinglish).  
-Perfect for chaos, fun, and desi vibes in your server. 😂🔥  
+**Jignesh** is a savage, dark-humor Discord bot with a Japanese twist.  
+He roasts, jokes, and replies in short, punchy lines — mixing English with Japanese.  
+Perfect for chaos and fun vibes in your server. 😂🔥  
 
 ---
 
@@ -15,12 +15,4 @@ Perfect for chaos, fun, and desi vibes in your server. 😂🔥
 - 🧹 **Reset Memory** – Type `jignesh reset` to clear conversation history.  
 - 📦 **Embeds + Emojis** – Fun replies with extra masala.  
 
----
-
-## 🚀 Setup
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/your-username/jignesh-bot.git
-cd jignesh-bot
 
